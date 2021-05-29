@@ -1,0 +1,11 @@
+.chat-input {
+  margin: 5px 0 0 0;
+  border: none;
+  background-color: transparent;
+  color: #e2ff3f;
+  font-size: 16px;
+}
+
+.chat-input:focus {
+  outline: none;
+}
